@@ -1,6 +1,6 @@
 *Chatbot*
 
-This is a simple web-based chatbot interface built using HTML, CSS, and JavaScript.
+This is a web-based chatbot interface built using HTML, CSS, and JavaScript.
 The goal of the project is to create a minimal chat UI where users can type a message and receive a response on the same page. The design focuses on simplicity and easy customization.
 
 
